@@ -1,7 +1,4 @@
 #!/bin/sh
-# install-hypervisor.sh - Install VMware, VirtualBox, or Waydroid on Linux or macOS.
-# POSIX sh. Usage: sh install-hypervisor.sh
-# It installs software only. It does not create or start any VM or Android container.
 
 set -eu
 
